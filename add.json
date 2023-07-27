@@ -1,0 +1,388 @@
+{
+    "sections": [
+        "649d5fe486c49c0011bd4675"
+    ],
+    "code": "TN_NTD",
+    "name": "Trắc nghiệm Nghi thức đội",
+    "des": "",
+    "icon": "empty",
+    "id": "649d61e686c49c0011bd47d6",
+    "examInfo": [
+        {
+            "section": {
+                "_id": "649d5fe486c49c0011bd4675",
+                "fields": [
+                    "Chung"
+                ],
+                "year": 2023,
+                "code": "TN_NTD",
+                "name": "Trắc nghiệm Nghi thức đội",
+                "isShowSide": true,
+                "questionType": "text",
+                "answerType": "single_choice",
+                "createdAt": "2023-06-29T10:41:40.099Z",
+                "updatedAt": "2023-07-07T12:52:26.145Z",
+                "__v": 0,
+                "des": "Trắc nghiệm Nghi thức đội"
+            },
+            "examQuestions": [
+                {
+                    "_id": "649d5fe486c49c0011bd4675",
+                    "options": {
+                        "isFieldShuffle": true,
+                        "isQuestionShuffleAll": true,
+                        "isKeepPosAcrossField": false
+                    },
+                    "uiSettings": {
+                        "bkgImg": "#7FFFD4",
+                        "bkgColor": "#EEE",
+                        "textColor": "#000",
+                        "bkgMusic": ""
+                    },
+                    "status": "active",
+                    "section": "649d5fe486c49c0011bd4675",
+                    "startTime": "2023-07-11T10:00:00.000Z",
+                    "endTime": "2023-07-31T10:20:00.000Z",
+                    "fieldSettings": [
+                        {
+                            "field": "Những vấn đề chung về Nghi thức Đội",
+                            "isRandomOptions": true,
+                            "isQuestionShuffle": true,
+                            "isAnswerInOrder": true,
+                            "attachQuestion": 2,
+                            "_id": "64b269db98744300120678e2",
+                            "questionAmount": 4,
+                            "timeEachQuestion": 45,
+                            "pointEachQuestion": 0.5
+                        },
+                        {
+                            "field": "Kiến thức nâng cao",
+                            "isRandomOptions": true,
+                            "isQuestionShuffle": true,
+                            "isAnswerInOrder": true,
+                            "attachQuestion": 2,
+                            "_id": "64b269db98744300120678e3",
+                            "questionAmount": 4,
+                            "timeEachQuestion": 45,
+                            "pointEachQuestion": 0.5
+                        },
+                        {
+                            "field": "Các yêu cầu đối với đội viên",
+                            "isRandomOptions": true,
+                            "isQuestionShuffle": true,
+                            "isAnswerInOrder": true,
+                            "attachQuestion": 2,
+                            "_id": "64b269db98744300120678e4",
+                            "questionAmount": 4,
+                            "timeEachQuestion": 45,
+                            "pointEachQuestion": 0.5
+                        },
+                        {
+                            "field": "Đội hình, đội ngũ và người chỉ huy nghi thức",
+                            "isRandomOptions": true,
+                            "isQuestionShuffle": true,
+                            "isAnswerInOrder": true,
+                            "attachQuestion": 2,
+                            "_id": "64b269db98744300120678e5",
+                            "questionAmount": 4,
+                            "timeEachQuestion": 45,
+                            "pointEachQuestion": 0.5
+                        },
+                        {
+                            "field": "Nghi lễ, thủ tục của Đội",
+                            "isRandomOptions": true,
+                            "isQuestionShuffle": true,
+                            "isAnswerInOrder": true,
+                            "attachQuestion": 2,
+                            "_id": "64b269db98744300120678e6",
+                            "questionAmount": 4,
+                            "timeEachQuestion": 45,
+                            "pointEachQuestion": 0.5
+                        }
+                    ],
+                    "createdAt": "2023-07-08T23:49:05.508Z",
+                    "updatedAt": "2023-07-15T09:41:47.191Z",
+                    "__v": 12
+                }
+            ],
+            "attempts": [
+                {
+                    "_id": "64c013a7983da30012fe9ef1",
+                    "totalScore": 0.5,
+                    "totalTime": 39,
+                    "status": "attempting",
+                    "code": "TN_NTD_1002",
+                    "examQuestion": "649d5fe486c49c0011bd4675",
+                    "examinee": "6498b28e139cbc00122775bf",
+                    "startTime": "2023-07-25T18:25:43.003Z",
+                    "attempt": [
+                        {
+                            "answer": [
+                                "0:1"
+                            ],
+                            "_id": "64c013a7983da30012fe9ef2",
+                            "question": "64a9f4cbbedc230012b7048f",
+                            "field": "Nghi lễ, thủ tục của Đội",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T12:40:19.057Z",
+                            "consumeTime": 1,
+                            "scored": 0.5
+                        },
+                        {
+                            "answer": [
+                                "1:1"
+                            ],
+                            "_id": "64c013a7983da30012fe9ef3",
+                            "question": "64a9f4cabedc230012b70401",
+                            "field": "Những vấn đề chung về Nghi thức Đội",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T12:40:19.561Z",
+                            "consumeTime": 1,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "2:3"
+                            ],
+                            "_id": "64c013a7983da30012fe9ef4",
+                            "question": "64a9f4cbbedc230012b70493",
+                            "field": "Nghi lễ, thủ tục của Đội",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:49:40.766Z",
+                            "consumeTime": 4,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "3:1"
+                            ],
+                            "_id": "64c013a7983da30012fe9ef5",
+                            "question": "64a9f4cbbedc230012b704a3",
+                            "field": "Kiến thức nâng cao",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:49:42.413Z",
+                            "consumeTime": 2,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "4:3"
+                            ],
+                            "_id": "64c013a7983da30012fe9ef6",
+                            "question": "64a9f4cbbedc230012b70475",
+                            "field": "Nghi lễ, thủ tục của Đội",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:49:44.045Z",
+                            "consumeTime": 2,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "5:1"
+                            ],
+                            "_id": "64c013a7983da30012fe9ef7",
+                            "question": "64a9f4cabedc230012b70427",
+                            "field": "Các yêu cầu đối với đội viên",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:49:45.678Z",
+                            "consumeTime": 1,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "6:2"
+                            ],
+                            "_id": "64c013a7983da30012fe9ef8",
+                            "question": "64a9f4cbbedc230012b7043d",
+                            "field": "Các yêu cầu đối với đội viên",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:49:47.549Z",
+                            "consumeTime": 2,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "7:3"
+                            ],
+                            "_id": "64c013a7983da30012fe9ef9",
+                            "question": "64a9f4cabedc230012b70419",
+                            "field": "Những vấn đề chung về Nghi thức Đội",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:49:48.782Z",
+                            "consumeTime": 1,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "8:1"
+                            ],
+                            "_id": "64c013a7983da30012fe9efa",
+                            "question": "64a9f4cabedc230012b70417",
+                            "field": "Những vấn đề chung về Nghi thức Đội",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:49:50.238Z",
+                            "consumeTime": 2,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "9:3"
+                            ],
+                            "_id": "64c013a7983da30012fe9efb",
+                            "question": "64a9f4cbbedc230012b7046b",
+                            "field": "Đội hình, đội ngũ và người chỉ huy nghi thức",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:49:52.133Z",
+                            "consumeTime": 2,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "10:1"
+                            ],
+                            "_id": "64c013a7983da30012fe9efc",
+                            "question": "64a9f4cbbedc230012b70443",
+                            "field": "Các yêu cầu đối với đội viên",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:49:54.973Z",
+                            "consumeTime": 3,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "11:3"
+                            ],
+                            "_id": "64c013a7983da30012fe9efd",
+                            "question": "64a9f4cbbedc230012b70447",
+                            "field": "Đội hình, đội ngũ và người chỉ huy nghi thức",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:49:56.638Z",
+                            "consumeTime": 1,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "12:2"
+                            ],
+                            "_id": "64c013a7983da30012fe9efe",
+                            "question": "64a9f4cbbedc230012b70499",
+                            "field": "Kiến thức nâng cao",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:49:58.605Z",
+                            "consumeTime": 2,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "13:1"
+                            ],
+                            "_id": "64c013a7983da30012fe9eff",
+                            "question": "64a9f4cabedc230012b70431",
+                            "field": "Các yêu cầu đối với đội viên",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:50:01.989Z",
+                            "consumeTime": 4,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "14:4"
+                            ],
+                            "_id": "64c013a7983da30012fe9f00",
+                            "question": "64a9f4cabedc230012b70407",
+                            "field": "Những vấn đề chung về Nghi thức Đội",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:50:03.702Z",
+                            "consumeTime": 1,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "15:3"
+                            ],
+                            "_id": "64c013a7983da30012fe9f01",
+                            "question": "64a9f4cbbedc230012b7049d",
+                            "field": "Kiến thức nâng cao",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:50:06.637Z",
+                            "consumeTime": 3,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "16:1"
+                            ],
+                            "_id": "64c013a7983da30012fe9f02",
+                            "question": "64a9f4cbbedc230012b704ad",
+                            "field": "Kiến thức nâng cao",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:50:08.493Z",
+                            "consumeTime": 2,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "17:2"
+                            ],
+                            "_id": "64c013a7983da30012fe9f03",
+                            "question": "64a9f4cbbedc230012b70491",
+                            "field": "Nghi lễ, thủ tục của Đội",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:50:09.902Z",
+                            "consumeTime": 2,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "18:3"
+                            ],
+                            "_id": "64c013a7983da30012fe9f04",
+                            "question": "64a9f4cbbedc230012b7045d",
+                            "field": "Đội hình, đội ngũ và người chỉ huy nghi thức",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:50:12.205Z",
+                            "consumeTime": 2,
+                            "scored": 0
+                        },
+                        {
+                            "answer": [
+                                "19:4"
+                            ],
+                            "_id": "64c013a7983da30012fe9f05",
+                            "question": "64a9f4cbbedc230012b70465",
+                            "field": "Đội hình, đội ngũ và người chỉ huy nghi thức",
+                            "answerScore": 0.5,
+                            "timeLimit": 45,
+                            "startTime": "2023-07-26T07:50:13.765Z",
+                            "consumeTime": 1,
+                            "scored": 0
+                        }
+                    ],
+                    "createdAt": "2023-07-25T18:25:43.039Z",
+                    "updatedAt": "2023-07-26T12:40:21.726Z",
+                    "__v": 28,
+                    "completeTime": "2023-07-26T12:40:21.722Z"
+                }
+            ]
+        }
+    ]
+}
